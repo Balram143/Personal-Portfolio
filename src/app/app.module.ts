@@ -26,6 +26,10 @@ const config: ExtraOptions = {
   useHash: true,
 };
 
+// Available options
+interface NgxSpinnerConfig {
+  type?: string;
+}
 
 
 
