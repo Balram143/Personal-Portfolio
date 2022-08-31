@@ -13,6 +13,7 @@ import { ContactComponent } from './contact/contact.component';
 import { NgxSpinnerModule } from 'ngx-spinner';
 import {FormsModule,ReactiveFormsModule} from '@angular/forms';
 import { FooterComponent } from './footer/footer.component';
+import { ProjectComponent } from './project/project.component';
 
 
 
@@ -28,6 +29,7 @@ import { FooterComponent } from './footer/footer.component';
     EducationComponent,
     ContactComponent,
     FooterComponent,
+    ProjectComponent,
   ],
   imports: [
     CommonModule,
