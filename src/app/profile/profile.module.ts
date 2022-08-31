@@ -27,7 +27,7 @@ import { FooterComponent } from './footer/footer.component';
     SkillsComponent,
     EducationComponent,
     ContactComponent,
-    FooterComponent
+    FooterComponent,
   ],
   imports: [
     CommonModule,
